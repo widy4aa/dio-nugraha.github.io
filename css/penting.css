@@ -1,0 +1,22 @@
+
+ div.transbox {
+        margin: 80px;
+        background-color: hsla(0, 0%, 100%, 0.774);
+        border: 3px solid rgb(0, 0, 0);
+        
+    }
+
+ font.materi {color: rgb(0, 0, 0);
+    font-style: italic;
+
+    }
+
+    body {background-image: url(../gambar/wallpaper/pexels-artem-beliaikin-853199.jpg);
+      background-size:cover;
+      background-attachment: fixed;}
+
+
+      img.contoh{
+         width: 75%;
+         height: auto;
+     }
